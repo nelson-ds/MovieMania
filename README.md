@@ -1,5 +1,5 @@
 # MovieMania
-A Project to analyze the relationship between a movie’s sentiment on Social Media and its crowd-sourced rating. More specifically, we try to answer the question - "Does Twitter sentiment for a particular movie (i.e. tweets using the movie’s official hashtags) influence or possibly predict that movie’s Metacritic rating?
+A Project to analyze the relationship between a movie’s sentiment on Social Media and its crowd-sourced rating. More specifically, we try to answer the question - "Does Twitter sentiment for a particular movie (i.e. tweets using the movie’s official hashtags) influence or possibly predict that movie’s Metacritic rating?"
 
 Note: [Python Notebook](https://github.com/nelson-ds/MovieMania/blob/master/MovieMania.ipynb) contains a different flavor of code than the one for which results are discussed in the [analysis](https://github.com/nelson-ds/MovieMania/blob/master/Analysis.pdf).
 
